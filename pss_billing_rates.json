@@ -1,0 +1,202 @@
+[
+  {
+    "State": "California",
+    "Rate": 110.37
+  },
+  {
+    "State": "New York",
+    "Rate": 27.37
+  },
+  {
+    "State": "New Hampshire",
+    "Rate": 24.94
+  },
+  {
+    "State": "Oregon",
+    "Rate": 24.78
+  },
+  {
+    "State": "Georgia",
+    "Rate": 24.36
+  },
+  {
+    "State": "Missouri",
+    "Rate": 23.17
+  },
+  {
+    "State": "Alaska",
+    "Rate": 23.09
+  },
+  {
+    "State": "Arizona",
+    "Rate": 21.86
+  },
+  {
+    "State": "Arkansas",
+    "Rate": 16.77
+  },
+  {
+    "State": "New Jersey",
+    "Rate": 16.62
+  },
+  {
+    "State": "Maryland",
+    "Rate": 16.38
+  },
+  {
+    "State": "Kansas",
+    "Rate": 16.02
+  },
+  {
+    "State": "New Mexico",
+    "Rate": 15.54
+  },
+  {
+    "State": "Ohio",
+    "Rate": 15.51
+  },
+  {
+    "State": "North Carolina",
+    "Rate": 15.5
+  },
+  {
+    "State": "Utah",
+    "Rate": 15.49
+  },
+  {
+    "State": "West Virginia",
+    "Rate": 15.07
+  },
+  {
+    "State": "Minnesota",
+    "Rate": 15.02
+  },
+  {
+    "State": "Nebraska",
+    "Rate": 14.85
+  },
+  {
+    "State": "Delaware",
+    "Rate": 14.75
+  },
+  {
+    "State": "Wyoming",
+    "Rate": 14.04
+  },
+  {
+    "State": "Montana",
+    "Rate": 14.01
+  },
+  {
+    "State": "Idaho",
+    "Rate": 13.63
+  },
+  {
+    "State": "Rhode Island",
+    "Rate": 13.5
+  },
+  {
+    "State": "South Carolina",
+    "Rate": 13.24
+  },
+  {
+    "State": "Virginia",
+    "Rate": 13
+  },
+  {
+    "State": "Louisiana",
+    "Rate": 12.61
+  },
+  {
+    "State": "Iowa",
+    "Rate": 12.5
+  },
+  {
+    "State": "Washington",
+    "Rate": 12.3
+  },
+  {
+    "State": "Alabama",
+    "Rate": 12
+  },
+  {
+    "State": "Oklahoma",
+    "Rate": 11.7
+  },
+  {
+    "State": "Texas",
+    "Rate": 11.25
+  },
+  {
+    "State": "North Dakota",
+    "Rate": 11.05
+  },
+  {
+    "State": "Kentucky",
+    "Rate": 8.61
+  },
+  {
+    "State": "Indiana",
+    "Rate": 8.55
+  },
+  {
+    "State": "Mississippi",
+    "Rate": 7.88
+  },
+  {
+    "State": "Nevada",
+    "Rate": 7.88
+  },
+  {
+    "State": "Colorado",
+    "Rate": 7.34
+  },
+  {
+    "State": "Connecticut",
+    "Rate": 13.02
+  },
+  {
+    "State": "Florida",
+    "Rate": 20.3
+  },
+  {
+    "State": "Hawaii",
+    "Rate": 15.19
+  },
+  {
+    "State": "Illinois",
+    "Rate": 29.26
+  },
+  {
+    "State": "Maine",
+    "Rate": 11.32
+  },
+  {
+    "State": "Massachusetts",
+    "Rate": 24.69
+  },
+  {
+    "State": "Michigan",
+    "Rate": 24
+  },
+  {
+    "State": "Pennsylvania",
+    "Rate": 15.5
+  },
+  {
+    "State": "South Dakota",
+    "Rate": 15.5
+  },
+  {
+    "State": "Tennessee",
+    "Rate": 10
+  },
+  {
+    "State": "Vermont",
+    "Rate": 0
+  },
+  {
+    "State": "Wisconsin",
+    "Rate": 6.3
+  }
+]
